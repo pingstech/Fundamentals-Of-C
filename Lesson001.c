@@ -1,7 +1,6 @@
 /*
  * @file Lesson001.c
  * @author Furkan YAYLA (yaylafurkan41@gmail.com)
- * @version 0.1
  * @date 2021-11-26
  */
 #include<stdio.h>
