@@ -1,5 +1,5 @@
 /*
- * @file:       Lesson001.c
+ * @file:       Lesson002.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
  * @purpose:    While Loop
  * @date:       2021-11-26
