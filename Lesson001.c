@@ -1,13 +1,13 @@
 /*
- * @file Lesson001.c
- * @author Furkan YAYLA (yaylafurkan41@gmail.com)
- * @date 2021-11-26
+ * @file:       Lesson001.c
+ * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
+ * @purpose:    Basic variable types
+ * @date:       2021-11-26
  */
 #include<stdio.h>
 
 int main()
 {
-    //Basic variable types
     printf("Variables of type char occupy %u bytes \n",sizeof(char));
     printf("Variables of type short occupy %u bytes \n",sizeof(short));
     printf("Variables of type int occupy %u bytes \n",sizeof(int));

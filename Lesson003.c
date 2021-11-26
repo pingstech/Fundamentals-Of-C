@@ -1,7 +1,7 @@
 /*
  * @file:       Lesson001.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
- * @purpose:    While Loop
+ * @purpose:    For Loop
  * @date:       2021-11-26
  */
 #include<stdio.h>
@@ -19,13 +19,11 @@ int main()
     scanf("%d",&numHigh);
 
     printf("Values between %d and %d is:",numLow,numHigh);
-
-    //While loop
-    while (numLow<numHigh)
+    for(numLow;numLow<numHigh;numLow++)
     {
         printf(" %d",numLow);
-        numLow++;
     }
 
+    
     return 0;
 }
