@@ -8,6 +8,7 @@
 
 int main()
 {
+    //Basic variable types
     printf("Variables of type char occupy %u bytes \n",sizeof(char));
     printf("Variables of type short occupy %u bytes \n",sizeof(short));
     printf("Variables of type int occupy %u bytes \n",sizeof(int));
