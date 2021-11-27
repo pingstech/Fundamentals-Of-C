@@ -1,5 +1,5 @@
 /*
- * @file:       Lesson005.c
+ * @file:       Lesson006.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
  * @purpose:    Calculate the area of a cricle with 2 ways
  * @date:       2021-11-26
