@@ -2,7 +2,7 @@
  * @file:       Lesson011.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
  * @purpose:    Array operation
- * @date:       2021-11-27
+ * @date:       2021-11-28
  */
 
 #include<stdio.h>
@@ -26,7 +26,7 @@ int main()
     }
     
     average=(float)sum/count;               // Average
-    
+
     printf("\nAverage of the ten grafes entered is: %.2f\n",average);
 
     return 0;
