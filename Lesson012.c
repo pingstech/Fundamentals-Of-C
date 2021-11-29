@@ -7,17 +7,14 @@
 
 #include<stdio.h>
 
-#define MONTHS 12
-
 int main(void)
 {   
-    int days[MONTHS]={31,28,31,30,31,30,31,31,30,31,30,31};         //Storing numerical value in integer array
-    char month[][MONTHS]={"January","February","March","April","May","June","July","August","September","October","November","December"};       //Storing string in char array
+    int days[12]={31,28,31,30,31,30,31,31,30,31,30,31};         //Storing numerical value in integer array
     int index;
 
-    for(index=0;index<MONTHS;index++)
+    for(index=0;index<12;index++)
     {
-        printf(" %10s has %2d days.\n",month[index],days[index]);
+        printf(" %2d has %2d days.\n",index+1,days[index]);
     }
 
     return 0;
