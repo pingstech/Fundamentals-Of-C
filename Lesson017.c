@@ -19,6 +19,7 @@ int main()
     primes[0]=2;
     primes[1]=3;
 
+    //Creating prime numbers
     for(indexP=5;indexP<=100;indexP++)
     {
         isPrime=true;
