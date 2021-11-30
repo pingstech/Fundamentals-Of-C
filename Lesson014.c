@@ -25,6 +25,7 @@ int main()
         }
         printf("---------------\n");
     }
+    
 /* ############################################################################################## */ 
 
     // Creating new multidimensional array
@@ -33,14 +34,15 @@ int main()
                         {20,10,-20},        //Values for second row
                         {0,0,3},            //Values for third row
                         {3,4,5} };          //Values for fourth row
-                                            //Fifth values of the array will create random
+                                            //Fifth values of the array will create Zeros
+    
     // Reading inside of new multidimensional array
     printf("--------------------\n");
     for (indexRow=0;indexRow<4;indexRow++)
     {
         for (indexCol=0;indexCol<5;indexCol++)
         {
-            printf("(%d)x(%d) is: %2d \n",indexRow+1,indexCol+1,numbers[indexCol][indexRow]);
+            printf("(%d)x(%d) is: %2d \n",indexRow+1,indexCol+1,matrix[indexRow][indexCol]);
         }
         printf("--------------------\n");
     }
