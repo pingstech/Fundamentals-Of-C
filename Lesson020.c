@@ -7,18 +7,16 @@
 
 #include<stdio.h>
 
-//creating function 
+//creating functions
 void addFunction(int temp1, int temp2)      // we use void function if we don't need value to return our main function
 {
     printf("Sum of %2.d and %2.d is equals to %d\n",temp1,temp2,(temp1+temp2));
 }
 
-//creating function 
 void subFunction(int temp1, int temp2)      // we use void function if we don't need value to return our main function
 {
     printf("Subtract of %2.d and %2.d is equals to %d\n",temp1,temp2,(temp1-temp2));
 }
-
 
 void mulFunction(int temp1, int temp2)      // we use void function if we don't need value to return our main function
 {
