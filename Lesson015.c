@@ -1,5 +1,5 @@
 /*
- * @file:       Lesson011.c
+ * @file:       Lesson015.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
  * @purpose:    Multidimensional Array-2
  * @date:       2021-11-30
