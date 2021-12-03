@@ -1,5 +1,5 @@
 /*
- * @file:       Lesson011.c
+ * @file:       Lesson017.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
  * @purpose:    Creating prime numbers
  * @date:       2021-11-30
