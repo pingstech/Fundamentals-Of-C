@@ -1,5 +1,5 @@
 /*
- * @file:       Lesson011.c
+ * @file:       Lesson018.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
  * @purpose:    Creat a simple weather program
  * @date:       2021-11-30
