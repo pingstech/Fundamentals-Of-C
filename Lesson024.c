@@ -1,7 +1,7 @@
 /*
  * @file:       Lesson024.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
- * @purpose:    Calculatıing Square Root
+ * @purpose:    Calculating Square Root
  * @date:       2021-12-05
  */
 
