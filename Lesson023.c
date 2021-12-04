@@ -1,7 +1,7 @@
 /*
  * @file:       Lesson023.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
- * @purpose:    Calculatıing GCD
+ * @purpose:    Calculating GCD
  * @date:       2021-12-04
  */
 
@@ -30,7 +30,6 @@ int main()
     scanf("%d",&num1);
     printf("\nPlease enter second number: ");
     scanf("%d",&num2);
-
     result=gcd(num1,num2);
 
     printf("The GDC of %2.d and %2.d is %2.d",num1,num2,result);
