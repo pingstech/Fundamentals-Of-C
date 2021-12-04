@@ -1,7 +1,7 @@
 /*
  * @file:       Lesson023.c
  * @author:     Furkan YAYLA (yaylafurkan41@gmail.com)
- * @purpose:    Calculatıing GCD
+ * @purpose:    Calculating GCD
  * @date:       2021-12-04
  */
 
